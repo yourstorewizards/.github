@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://yourstorewizards.com/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://yourstorewizards.com/wp-content/uploads/2020/05/ysw-logo.png">
-      <img alt="Minnek Logo" src="https://yourstorewizards.com/wp-content/uploads/2020/05/ysw-logo.png">
+      <source media="(prefers-color-scheme: dark)" srcset="https://yourstorewizards.com/wp-content/uploads/2023/07/ysw-logo-2x.png">
+      <img alt="Minnek Logo" src="https://yourstorewizards.com/wp-content/uploads/2023/07/ysw-logo-2x.png">
     </picture>    
   </a>
 </p>
