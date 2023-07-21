@@ -7,6 +7,10 @@
   </a>
 </p>
 
+<h2 align="center">
+  Your Store Wizards
+</h2>
+
 <p align="center">
   Your Store Wizards provides affordable and creative solutions for eCommerce websites on several platforms including Turbify, BigCommerce, and Shopify. Whether it’s one of our apps or a custom feature for your store, our store development is designed to create seamless, memorable user experiences while adding significant value to your store by helping you save time, increase conversion rate, and be more profitable.
 </p>
